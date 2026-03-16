@@ -1,0 +1,7 @@
+Test aioodoasi
+hello maposopasmd 
+admasdmpoas
+
+std::cout << "Hello World" << std::endl;
+system.out.println("Hello World");
+Print("Hello World")
